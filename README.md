@@ -6,7 +6,8 @@ Visual Designer | Frontend Dev | CMS Expert
 
 * 🌍  I'm based in Nigeria
 * 🧠  I'm learning Learning web design on freecodecamp.org
-* 🤝  I'm open to collaborating on open to collaborating on interesting projects as a developer or designer
+* 🤝  I'm open to collaborating
+ on interesting projects as a developer or designer
 * ✉️  You can contact me at [omosayemosesiseoluwa@gmail.com](mailto:omosayemosesiseoluwa@gmail.com)
 * ⚡  I can read your mind through texts.
 
